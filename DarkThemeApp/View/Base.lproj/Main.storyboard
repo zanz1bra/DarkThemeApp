@@ -18,8 +18,8 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="t9m-FK-3Ov">
                                 <rect key="frame" x="117" y="316" width="141" height="35"/>
-                                <color key="backgroundColor" systemColor="systemBlueColor"/>
-                                <color key="tintColor" systemColor="tintColor"/>
+                                <color key="backgroundColor" systemColor="tintColor"/>
+                                <color key="tintColor" systemColor="systemBlueColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="Dark Theme on">
                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
